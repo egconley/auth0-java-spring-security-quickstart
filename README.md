@@ -18,3 +18,6 @@
 
 ## Notes
 I initialized the project with the [Spring Initializr](https://start.spring.io/) and then copied over the code in src from the  All of the code in src was copied over from [Auth0 Integration Samples for Java Spring Security MVC](https://github.com/auth0-samples/auth0-spring-security-mvc-sample).  As such, the build.gradle file is similar, but not exactly the same as the tutorial.
+
+## Screenshot
+![](java-spring-security.png)
