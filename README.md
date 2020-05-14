@@ -1,5 +1,5 @@
 # Auth0 Java Spring Security Quickstart
-[tutorial link](https://auth0.com/docs/quickstart/webapp/java-spring-security-mvc)
+Implementation of [Auth0 Java Spring Security Quickstart Tutorial](https://auth0.com/docs/quickstart/webapp/java-spring-security-mvc)
 
 ## Built With
 - [Auth0](https://auth0.com/)
