@@ -6,9 +6,6 @@
 - [Java](https://www.java.com/en/)
 - [Spring Security](https://www.java.com/en/)
 
-## Notes
-I initialized the project with the [Spring Initializr](https://start.spring.io/) and then copied over the code in src from the  All of the code in src was copied over from [Auth0 Integration Samples for Java Spring Security MVC](https://github.com/auth0-samples/auth0-spring-security-mvc-sample).  As such, the build.gradle file is similar, but not exactly the same as the tutorial.
-
 ## Getting Up and Running
 1. Clone this repo down to your local machine.
 2. Open the project in IntelliJ.
@@ -18,3 +15,6 @@ I initialized the project with the [Spring Initializr](https://start.spring.io/)
     - Login: http://localhost:3000/login
     - User Profile: http://localhost:3000/login
     - Logout: http://localhost:3000/logout
+
+## Notes
+I initialized the project with the [Spring Initializr](https://start.spring.io/) and then copied over the code in src from the  All of the code in src was copied over from [Auth0 Integration Samples for Java Spring Security MVC](https://github.com/auth0-samples/auth0-spring-security-mvc-sample).  As such, the build.gradle file is similar, but not exactly the same as the tutorial.
