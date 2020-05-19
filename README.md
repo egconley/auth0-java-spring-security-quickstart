@@ -22,4 +22,4 @@ Implementation of [Auth0 Java Spring Security Quickstart Tutorial](https://auth0
 - The version of Spring Boot that I used wasn't recognizing the `org.springframework.boot.autoconfigure.web.ErrorController` interface used in the [Auth0 Integration Samples for Java Spring Security MVC](https://github.com/auth0-samples/auth0-spring-security-mvc-sample) `ErrorController` class, so my `Error Controller` class implements the `org.springframework.boot.web.servlet.error.ErrorController` interface.
 
 ## Screenshot
-![](java-spring-security.png)
+![](screenshot.png)
