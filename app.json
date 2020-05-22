@@ -1,0 +1,7 @@
+{
+  "name": "Auth0 Java Spring Security sample app",
+  "description": "An example application using Auth0 with Java Spring Security",
+  "repository": "https://github.com/egconley/auth0-java-spring-security-quickstart",
+  "logo": "https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg",
+  "keywords": ["authentication", "java", "spring", "Auth0"]
+}
