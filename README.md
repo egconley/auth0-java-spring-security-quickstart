@@ -19,6 +19,7 @@ Implementation of [Auth0 Java Spring Security Quickstart Tutorial](https://auth0
 ## Notes
 - I initialized the project with the [Spring Initializr](https://start.spring.io/) and then copied over the code in src from the  All of the code in src was copied over from [Auth0 Integration Samples for Java Spring Security MVC](https://github.com/auth0-samples/auth0-spring-security-mvc-sample).  As such, the build.gradle file is similar, but not exactly the same as the tutorial.
 - The version of Spring Boot that I used wasn't recognizing the `org.springframework.boot.autoconfigure.web.ErrorController` interface used in the [Auth0 Integration Samples for Java Spring Security MVC](https://github.com/auth0-samples/auth0-spring-security-mvc-sample) `ErrorController` class, so my `Error Controller` class implements the `org.springframework.boot.web.servlet.error.ErrorController` interface.
+- I'm using `thymeleaf-extras-springsecurity5` instead of `thymeleaf-extras-springsecurity4` (for compatibility with Spring Security 5.x), so `line 2` of `navbar.html` was updated to reflect the change from version 4 to 5.
 
 ## Screenshot
 ![](index.png)
